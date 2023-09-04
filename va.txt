@@ -1,0 +1,2 @@
+Address = 0xdddddd27abd58f6db60221ab8e5f51a5c685ac34
+Private Key = bf7d7cb1763a23acea3ddb28ec16574623b01e1a85a3548755e2c19cf27adb7f
